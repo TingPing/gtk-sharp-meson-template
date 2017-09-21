@@ -1,0 +1,3 @@
+[submodule "subprojects/gtk-sharp"]
+	path = subprojects/gtk-sharp
+	url = https://github.com/gtk-sharp/gtk-sharp.git
